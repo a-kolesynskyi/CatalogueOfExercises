@@ -1,0 +1,6 @@
+framework module Pods_CatalogueOfExercises {
+  umbrella header "Pods-CatalogueOfExercises-umbrella.h"
+
+  export *
+  module * { export * }
+}

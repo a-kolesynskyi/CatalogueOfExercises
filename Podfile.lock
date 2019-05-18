@@ -1,0 +1,20 @@
+PODS:
+  - SCLAlertView (0.8)
+  - YoutubePlayer-in-WKWebView (0.3.0)
+
+DEPENDENCIES:
+  - SCLAlertView
+  - YoutubePlayer-in-WKWebView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SCLAlertView
+    - YoutubePlayer-in-WKWebView
+
+SPEC CHECKSUMS:
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  YoutubePlayer-in-WKWebView: 17a33b2fa619d357c9ddd763942ce556660facae
+
+PODFILE CHECKSUM: afcb4008d4e12268f4f01e39456786dd7bed3205
+
+COCOAPODS: 1.6.1
